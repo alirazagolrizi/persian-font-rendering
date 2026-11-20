@@ -1,0 +1,3 @@
+matplotlib
+# Optional: arabic-reshaper
+ # Optional: python-bidi
